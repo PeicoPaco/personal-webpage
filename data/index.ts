@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a VC Web App",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -107,33 +107,21 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I worked with Rodrigo at Ferreyros. He is a very proactive, analytical, and dynamic professional. He solves problems effectively and has a lot of passion for both internal and external clients.",
+    name: "Jaime Nunez Melgar",
+    title: "Commercial Manager for Large-Scale Mining at Ferreyros S.A.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Rodrigo was an absolute pleasure, quickly adapting to our specific needs and placing the final user as priority",
+    name: "Andrea Morote",
+    title: "Marketing Chief for Peru, Ecuador and Bolivia at Datamine",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Rodrigo was an exceptional experience. His proactivity and continuous drive for improvements made a significant impact on our operations. His dedication and innovative mindset are truly commendable.",
+    name: "Peter Stuart",
+    title: "Founder of Betta Lay Floor",
   },
 ];
 
@@ -173,29 +161,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Software Development - Kubu.so",
+    desc: "Implement a user friendly platform for VC using NextJS, AWS and Entity Matching with Python",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Project Manager - Betta Lay",
+    desc: "Planned logistics and employee distribution, providing guidance and support to achieve project goals",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Scrum Master & PO - Intedi",
+    desc: "Led the dev of a mobile app with agile methodology, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Web Development - Datamine",
+    desc: "Developed and maintained a user-friendly platform in a digital totem for the client",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +193,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
+    link: "https://github.com/PeicoPaco",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/rodrigo-reategui-64ab18162/",
   },
 ];
