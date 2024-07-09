@@ -77,6 +77,7 @@ export const projects = [
     img: "/podcastr.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/convexpng.png", "/c.svg"],
     link: "https://www.podcastnow.life/",
+    linktitle: "/podcastnow.life"
   },
   {
     id: 2,
@@ -84,7 +85,8 @@ export const projects = [
     des: "Order your food and let us help you find places related to your interests",
     img: "/p2.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/firebase.svg", "/flutter.png"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://www.youtube.com/shorts/A1TVpEKPrkM",
+    linktitle: "/youtube/fidelio"
   }
 ];
 
