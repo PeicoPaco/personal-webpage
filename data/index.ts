@@ -109,6 +109,12 @@ export const testimonials = [
     name: "Peter Stuart",
     title: "Founder of Betta Lay Floor",
   },
+  {
+    quote:
+      "I am working with Rodrigo on a complex database project covering 3+ million of companies. His work ethic is unquestionable. He is always ready to work above and beyond to deliver on the weekly sprints and he shows initiative and curiosity to help on further issues.",
+    name: "Nacho Tintore",
+    title: "Founder of Kubu",
+  },
 ];
 
 export const companies = [
